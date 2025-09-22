@@ -1,1 +1,42 @@
 # School-website-
+‎<!DOCTYPE html>
+‎<html lang="en">
+‎<head>
+‎  <meta charset="UTF-8">
+‎  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+‎  <title>My First GitHub Page</title>
+‎  <style>
+‎    body {
+‎      font-family: Arial, sans-serif;
+‎      background: linear-gradient(to right, #4facfe, #00f2fe);
+‎      color: white;
+‎      text-align: center;
+‎      padding: 50px;
+‎    }
+‎    h1 {
+‎      font-size: 3em;
+‎    }
+‎    p {
+‎      font-size: 1.3em;
+‎    }
+‎    .btn {
+‎      display: inline-block;
+‎      margin-top: 20px;
+‎      padding: 12px 25px;
+‎      background: white;
+‎      color: #333;
+‎      font-weight: bold;
+‎      border-radius: 8px;
+‎      text-decoration: none;
+‎    }
+‎    .btn:hover {
+‎      background: #ddd;
+‎    }
+‎  </style>
+‎</head>
+‎<body>
+‎  <h1>🎉 Welcome to My GitHub Page 🎉</h1>
+‎  <p>Yeh meri pehli website hai jo GitHub Pages par free host ki hai!</p>
+‎  <a class="btn" href="https://github.com/" target="_blank">Visit GitHub</a>
+‎</body>
+‎</html>
